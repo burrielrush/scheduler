@@ -8,7 +8,6 @@ The application is structured using a simple HTML layout that includes a header,
 
 Overall, this application provides a useful tool for anyone looking to organize their workday tasks and stay on top of their schedule.
   
-## Showing my knowledge of JavaScript and local storage to make a funtional random passcode generator. This will be added to my portfolio to show that I have a basic understanding of JavaScript and local storage. 
 
 ## How to use
 -Clone the repository or download the ZIP file and extract it to your desired location.<br>
