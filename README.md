@@ -1,4 +1,4 @@
-# <Busy day scheduler>
+# Busy day scheduler
   
 ## This is a workday scheduler application built using HTML, CSS, JavaScript, and the jQuery library. The application provides a simple calendar for scheduling tasks during the workday. The user can input their tasks or notes into each hour block of the day, and the application saves the input data to local storage so that the information persists even if the user closes or refreshes the page.
 
