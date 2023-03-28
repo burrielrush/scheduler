@@ -16,8 +16,9 @@ document.addEventListener('DOMContentLoaded', function() {
     function updateTime() {
       var now = new Date();
       var datetime = document.getElementById('datetime');
-      datetime.innerHTML = now.toLocaleString();
+      datetime.innerHTML = now.toLocaleString([], {hourCycle: 'h23', hour: '2-digit', minute: '2-digit'});
     }
+    
     
     updateTime();
     setInterval(updateTime, 1000); 
