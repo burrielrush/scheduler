@@ -8,13 +8,14 @@ The application is structured using a simple HTML layout that includes a header,
 
 Overall, this application provides a useful tool for anyone looking to organize their workday tasks and stay on top of their schedule.
   
-## Showing my knowledge of JavaScript and local storage to make a funtional random passcode generator. This will be added to my portfolio to show that I have a basic understanding of JavaScript and local storage. 
 
 ## How to use
 -Clone the repository or download the ZIP file and extract it to your desired location.<br>
 -Open index.html in your web browser.<br>
 -Enter information into the box and save.<br>
 -Click on the clear all button in order to clear all saved events.<br>
+
+
 ## Features
 -Box color will change with time being past, present, and future evenets.<br>
 -Saves events at specific time throughout work day.<br>
@@ -31,8 +32,9 @@ Overall, this application provides a useful tool for anyone looking to organize 
 The JavaScript was created by Rush Burriel with base HTML and CSS code provided.
   
 ## Links
- <br>
- <br>
+ http://127.0.0.1:5500/index.html<br>
+ https://burrielrush.github.io/scheduler/<br>
+ https://github.com/burrielrush/scheduler<br>
 
   ## App photo
   <img width="376" alt="Screenshot 2023-03-27 at 5 24 41 PM" src="https://user-images.githubusercontent.com/123046249/228110811-94a3f4ae-05fc-473a-9346-7f25e51c047f.png">
