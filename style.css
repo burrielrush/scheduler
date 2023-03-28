@@ -1,13 +1,14 @@
 body {
     font-family: 'Open Sans', sans-serif;
     font-size: 16px;
+    background-color: black;
   }
   
   textarea {
     background: transparent;
     border: none;
     resize: none;
-    color: #000000;
+    color: white;
     border-left: 1px solid black;
     padding: 10px;
   }
@@ -25,23 +26,26 @@ body {
   }
   
   .hour {
-    background-color: #ffffff;
+    background-color: whitesmoke;
     color: #000000;
     border-top: 1px dashed #000000;
   }
   
   .past {
-    background-color: #d3d3d3;
+    opacity: 0.5;
+    background-color: rgb(193, 3, 3);
     color: white;
   }
   
   .present {
-    background-color: #ff6961;
+    font-style: bolder;
+    background-color: rgb(41, 156, 2);
     color: white;
   }
   
   .future {
-    background-color: #77dd77;
+    opacity: 0.7;
+    background-color: rgb(255, 196, 0);
     color: white;
   }
   
@@ -49,8 +53,8 @@ body {
     border-left: 1px solid black;
     border-top-right-radius: 15px;
     border-bottom-right-radius: 15px;
-    background-color: #06aed5;
-    color: white;
+    background-color: whitesmoke;
+    color: gray;
   }
   
   .saveBtn i:hover {
@@ -65,8 +69,22 @@ body {
     height: 25px;
     width: 225px;
     border-radius: 20px;
-    position: absolute;
-    color: white;
-    background-color: black;
+    color: black;
+    background-color: whitesmoke;
   }
   
+  .display-3 {
+    color: whitesmoke;
+  }
+
+  .lead {
+    color: whitesmoke;
+  }
+
+  .clearBtn {
+    background-color: white;
+  }
+
+  .clearBtn:hover {
+    background-color: red;
+  }
